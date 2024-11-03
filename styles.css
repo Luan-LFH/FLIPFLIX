@@ -1,0 +1,51 @@
+body{
+    color:rgb(31, 31, 31);
+    background:plum;
+    margin: 0px;
+    font-family: "Bona Nova SC", serif;
+}
+
+header{
+    border-bottom: solid 2px black;
+    padding: 20px;
+    font-size: 32px;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    background: gray;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    justify-content: center;
+}
+
+.texto {
+    margin-right: 5%;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+h4 {
+    font-size: 30px;
+}
+
+section {
+    padding-left: 12px;
+    padding-right: 12px;
+}
